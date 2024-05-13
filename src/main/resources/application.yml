@@ -11,3 +11,5 @@ spring:
   config:
     activate:
       on-profile: dev
+
+branch: dev
